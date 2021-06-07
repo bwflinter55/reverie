@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GuestBook
-permalink: /getting-started/
+permalink: /GuestBook/
 ---
 
 Make a comment in the GuestBook:
