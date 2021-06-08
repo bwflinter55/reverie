@@ -6,4 +6,4 @@ permalink: /about/
 
 ## Title
 
-- TODO
+- Losers Let It Happen.  Winners Make It Happen.
